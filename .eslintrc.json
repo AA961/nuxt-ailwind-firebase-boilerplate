@@ -1,0 +1,7 @@
+{
+    "extends": ["@nuxtjs/eslint-config-typescript", "prettier"],
+    "rules": {
+      "space-before-function-paren": "off"
+    }
+  }
+  
